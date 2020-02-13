@@ -1,0 +1,25 @@
+{
+    "name": "neumorphism",
+    "version": "0.1.0",
+    "authors": [
+        "Artur Bień"
+    ],
+    "description": "Neumorphism",
+    "keywords": [],
+    "license": "MIT",
+    "repository": "git@github.com:arturbien/React95.git",
+    "main": "./index.js",
+    "files": [
+        "./"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "prepublishOnly": "npm run release",
+        "release": "npm run build:dev && npm run build:prod"
+    },
+    "peerDependencies": {},
+    "devDependencies": {},
+    "dependencies": {}
+}
