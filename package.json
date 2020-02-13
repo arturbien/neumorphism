@@ -7,7 +7,7 @@
     "description": "Neumorphism",
     "keywords": [],
     "license": "MIT",
-    "repository": "git@github.com:arturbien/React95.git",
+    "repository": "git@github.com:arturbien/neumorphism.git",
     "main": "./index.js",
     "files": [
         "./"
